@@ -291,10 +291,10 @@ ReguladorTemperatura/
 
 ## 📚 Referências técnicas
 
-* [Arduino Mega 2560 Rev3 — documentação oficial](https://docs.arduino.cc/hardware/mega-2560)
-* [DS18B20 — documentação técnica do fabricante](https://www.analog.com/en/products/DS18B20.html)
-* [Biblioteca OneWire — repositório do projeto](https://github.com/PaulStoffregen/OneWire)
-* [Biblioteca DallasTemperature — repositório do projeto](https://github.com/milesburton/Arduino-Temperature-Control-Library)
+* [Arduino Mega 2560 Rev3 - documentação oficial](https://docs.arduino.cc/hardware/mega-2560)
+* [DS18B20 - documentação técnica do fabricante](https://www.analog.com/en/products/DS18B20.html)
+* [Biblioteca OneWire - repositório do projeto](https://github.com/PaulStoffregen/OneWire)
+* [Biblioteca DallasTemperature - repositório do projeto](https://github.com/milesburton/Arduino-Temperature-Control-Library)
 
 ---
 
