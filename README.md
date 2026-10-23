@@ -246,9 +246,6 @@ ReguladorTemperatura/
     ├── sistema-refrigeracao.jpg
     └── montagem-projeto.jpg
 ```
-
-A pasta `assets/` pode armazenar imagens dos componentes e fotografias da montagem real do sistema.
-
 ---
 
 ## 🚀 Instalação e execução
