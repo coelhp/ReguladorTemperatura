@@ -129,7 +129,7 @@ Na implementação atual, o pino digital **13** do Arduino Mega 2560 é utilizad
 
 A sonda metálica apresentada na imagem é uma versão comercial do DS18B20. O encapsulamento efetivamente utilizado na montagem deve ser confirmado com base nos componentes físicos do projeto.
 
-Documentação técnica: [DS18B20 — Analog Devices](https://www.analog.com/en/products/DS18B20.html).
+Documentação técnica: [DS18B20 - Analog Devices](https://www.analog.com/en/products/DS18B20.html).
 
 ### 3. Display LCD
 
