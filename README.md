@@ -1,4 +1,4 @@
-# 🌡️ Controlador de Temperatura com Arduino Mega 2560
+# 🌡️ Controlador de Temperatura utilizando Arduino Mega 2560
 
 Projeto de controle de temperatura de um reservatório utilizando **Arduino Mega 2560**, sensor digital **DS18B20** e sistemas de aquecimento e refrigeração.
 
